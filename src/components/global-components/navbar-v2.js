@@ -43,7 +43,6 @@ class NavbarV2 extends Component {
 													<li></li>
 													<li></li>
 													<li></li>
-													<li></li>
 													<li><a href="#" title="Facebook"><i className="fab fa-facebook-f" /></a></li>
 													<li><a href="#" title="Instagram"><i className="fab fa-instagram" /></a></li>
 												</ul>
